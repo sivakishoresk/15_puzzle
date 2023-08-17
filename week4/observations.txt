@@ -1,0 +1,13 @@
+15puzzzle.cpp :
+
+to check if handle is used or not in class MyButton i have added a variable of type 
+bool to check if is used or not.
+
+For checking if the buttons are adjacent or not i have added two more
+index_x and index_y 
+and if the sum of absolute difference of indexes of x and y is equal to 1 then only the conditon executes.
+
+It runs continuously because of for loop and if we close the fltk window it stops
+
+But don't know why i am not getting window but it is compiling with no errors and warnings.
+Can you check it why
